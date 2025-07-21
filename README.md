@@ -50,7 +50,7 @@ Scripts de automação para gestão de ideias, categorização automática e an�
 `Scrum` • `Kanban` • `OKR` • `Lean` • `PMBOK` • `Hoshin Kanri`
 
 **Ferramentas**  
-`Azure DevOps` • `Jira` • `MS Project` • `Harvest` • `Miro` • `Teams`
+`Azure DevOps` • `Jira` • `MS Project` • `Harvest` • `Miro` • `Teams` • `ClickUp` • `Monday` • `Slack` • `Notion`
 
 **Análise e BI**  
 `Power BI (avançado)` • `Excel (avançado)` • `SQL Server` • `Visio`
